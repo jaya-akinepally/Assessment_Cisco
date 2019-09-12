@@ -2,7 +2,7 @@
 
 Following arguments are required :
 
-1. macaddress (mac address if the system)
+1. macaddress (mac address of the system)
 2. apikey 
 
 # Usage:
